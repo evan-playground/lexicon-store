@@ -5,6 +5,6 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>VoLTE</grapheme>
-    <phoneme>ˈvɔɪs ˌɛltiːiː</phoneme>
+    <alias>Voice over LTE</alias>
   </lexeme>
 </lexicon>
