@@ -4,11 +4,11 @@
   version="1.0" alphabet="ipa" xml:lang="en-US"
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
-    <grapheme>Premarin Vaginal Cream</grapheme>
-    <alias>PremarinVaginalCream</alias>
+    <grapheme>Premarin Vaginal cream</grapheme>
+    <alias>PremarinVaginalcream</alias>
   </lexeme>
   <lexeme>
-    <grapheme>PremarinVaginalCream</grapheme>
-    <phoneme>ˈprɛmərɪn</phoneme>
+    <grapheme>PremarinVaginalcream</grapheme>
+    <phoneme>ˈprɛmərɪn.ˈvæʒ.nəl.kriːm</phoneme>
   </lexeme>
 </lexicon>
