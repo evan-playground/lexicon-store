@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Solu-Cortef</grapheme>
-    <phoneme>ˈsoʊ.luː.ˈkɔɹ.tɛf</phoneme>
+    <alias>SoluCortef</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SoluCortef</grapheme>
+    <phoneme>.soʊˈlu.kɔrˈtɛfən</phoneme>
   </lexeme>
 </lexicon>

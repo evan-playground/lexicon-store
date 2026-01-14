@@ -5,10 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Levofloxacin in 5% Dextrose</grapheme>
-    <alias>LevofloxacininDextrose</alias>
+    <alias>Levofloxacinin%Dextrose</alias>
   </lexeme>
   <lexeme>
-    <grapheme>LevofloxacininDextrose</grapheme>
-    <phoneme>.liː.voʊˈflæk.sən.dɛkˈstroʊz</phoneme>
+    <grapheme>Levofloxacinin%Dextrose</grapheme>
+    <phoneme>.liːvˈʌfləksən.dɛksˈtroʊs</phoneme>
   </lexeme>
 </lexicon>

@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Solu-Medrol</grapheme>
-    <phoneme>.sɑ.luˈmɛd.roʊlʃ</phoneme>
+    <alias>SoluMedrol</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>SoluMedrol</grapheme>
+    <phoneme>.soʊluːˈmɛdroʊl</phoneme>
   </lexeme>
 </lexicon>

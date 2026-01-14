@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Thrombi-Gel</grapheme>
-    <phoneme>.θrɒmˈbiː.dʒɛlʉ</phoneme>
+    <alias>ThrombiGel</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ThrombiGel</grapheme>
+    <phoneme>.θrɒmˈbaɪdʒɛl</phoneme>
   </lexeme>
 </lexicon>

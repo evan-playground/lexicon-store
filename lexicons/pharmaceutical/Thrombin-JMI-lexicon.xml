@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Thrombin-JMI</grapheme>
-    <phoneme>.θrʌmˈbɪn.dʒeɪ.ɛm.aɪ</phoneme>
+    <alias>ThrombinJMI</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>ThrombinJMI</grapheme>
+    <phoneme>.θroʊmˈbɪndʒəmaɪ</phoneme>
   </lexeme>
 </lexicon>

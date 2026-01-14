@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Depo-Medrol</grapheme>
-    <phoneme>.dɛˈpoʊ.mɛdˈroʊl</phoneme>
+    <alias>DepoMedrol</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>DepoMedrol</grapheme>
+    <phoneme>.dɛpˈmoʊmɛdrɔl</phoneme>
   </lexeme>
 </lexicon>

@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Gel-Flow</grapheme>
-    <phoneme>.ɡɛlˈfloʊ.ərə</phoneme>
+    <alias>GelFlow</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>GelFlow</grapheme>
+    <phoneme>.ʤɛlˈfloʊrə</phoneme>
   </lexeme>
 </lexicon>

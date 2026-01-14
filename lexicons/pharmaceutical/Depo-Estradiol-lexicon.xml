@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Depo-Estradiol</grapheme>
-    <phoneme>.dɛ.poʊ.ɛs.trəˈdiː.ɔlʃ</phoneme>
+    <alias>DepoEstradiol</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>DepoEstradiol</grapheme>
+    <phoneme>.dɛpˈoʊ.ɛsˈtrædɪɒl</phoneme>
   </lexeme>
 </lexicon>

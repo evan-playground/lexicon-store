@@ -5,6 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Depo-Testosterone</grapheme>
-    <phoneme>ˈdɛp.oʊ.tɛsˈtɑː.stɹoʊn</phoneme>
+    <alias>DepoTestosterone</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>DepoTestosterone</grapheme>
+    <phoneme>.dɛˈpoʊ.tɛsˈtoʊrən</phoneme>
   </lexeme>
 </lexicon>

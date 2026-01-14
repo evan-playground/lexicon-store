@@ -5,10 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Linezolid in 0.9% Sodium Chloride</grapheme>
-    <alias>LinezolidinSodiumChloride</alias>
+    <alias>Linezolidin.%SodiumChloride</alias>
   </lexeme>
   <lexeme>
-    <grapheme>LinezolidinSodiumChloride</grapheme>
-    <phoneme>.lɪˈnɛz.ə.lɪd.soʊ.diəm.klɔːrˈraɪdʊ</phoneme>
+    <grapheme>Linezolidin.%SodiumChloride</grapheme>
+    <phoneme>.laɪˈnɛzəlɪd.soʊˈdʒʌm.klɔːr</phoneme>
   </lexeme>
 </lexicon>

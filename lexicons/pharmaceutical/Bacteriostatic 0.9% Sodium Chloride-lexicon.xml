@@ -5,10 +5,10 @@
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
     <grapheme>Bacteriostatic 0.9% Sodium Chloride</grapheme>
-    <alias>BacteriostaticSodiumChloride</alias>
+    <alias>Bacteriostatic.%SodiumChloride</alias>
   </lexeme>
   <lexeme>
-    <grapheme>BacteriostaticSodiumChloride</grapheme>
-    <phoneme>.bækˈtɛr.i.oʊ.stætɪk.klɔːr.aɪd</phoneme>
+    <grapheme>Bacteriostatic.%SodiumChloride</grapheme>
+    <phoneme>.bæktɪrioʊˈstætɪk.soʊdjəm.klɔːraɪd</phoneme>
   </lexeme>
 </lexicon>
