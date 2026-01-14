@@ -4,7 +4,11 @@
   version="1.0" alphabet="ipa" xml:lang="en-US"
   xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
-    <grapheme>Vfend</grapheme>
-    <phoneme>ˈpʌndɪt</phoneme>
+    <grapheme>Bicillin C‑R</grapheme>
+    <alias>BicillinC‑R</alias>
+  </lexeme>
+  <lexeme>
+    <grapheme>BicillinC‑R</grapheme>
+    <phoneme>ˈgʌlɚpɪn</phoneme>
   </lexeme>
 </lexicon>
